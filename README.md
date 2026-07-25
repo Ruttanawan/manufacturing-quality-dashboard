@@ -13,7 +13,7 @@ This dashboard provides high-level visibility for plant managers and quality eng
 
 ## Key Features & Metrics
 * **KPI Header Cards:** Real-time tracking of `Overall Yield Rate (97.03%)`, `Defect Rate`, `Out of Control Rate`, and `Total Actual Quantity`.
-* **Production & Yield Trend:** Combined Column and Line chart for monthly volume vs. target yield rates.
+* **Production & Yield Trend:** Combined Column and Line chart for monthly volume vs. yield rates.
 * **Pareto Defect Analysis:** Identifies top cost-contributing defects (*Foreign Particle Inclusion & Surface Contamination*).
 * **Machine & Supplier Quality:** Conditional formatting highlights high-risk areas:
   * Highest OOC Machine: *Injection Molding A2 (3.87%)*

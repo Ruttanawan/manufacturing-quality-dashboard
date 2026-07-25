@@ -1,13 +1,21 @@
 # Manufacturing & Quality Performance Dashboard
 
-An interactive Power BI dashboard designed to monitor production efficiency, defect management, and supplier quality performance in real time.
+## Overview
+
+This project is an interactive Power BI dashboard designed to monitor manufacturing and quality performance. It provides key production KPIs, defect analysis, machine performance, and supplier quality metrics to support data-driven decision-making in a manufacturing environment.
 
 ![Dashboard Preview](Dashboard_preview.png)
 
 ---
 
-## Executive Summary
+## Summary
 This dashboard provides high-level visibility for plant managers and quality engineers to track production yield, analyze defect root causes, and monitor supplier compliance.
+
+---
+
+## Dataset
+- Simulated manufacturing dataset generated for portfolio purposes
+- Business scenarios and KPI structure are based on real manufacturing quality processes
 
 ---
 
